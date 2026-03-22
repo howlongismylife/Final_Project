@@ -109,3 +109,5 @@ todo-app
 - pkg/db — работа с базой данных
 - web — фронтенд
 - tests — тесты
+
+Final version
